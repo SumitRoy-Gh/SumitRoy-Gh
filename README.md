@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumit Roy</h1>
-<h3 align="center">Data in. Decisions out.</h3>
+<h3 align="center">Applied ML | Turning messy data into working systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitroy-gh&label=Profile%20views&color=0e75b6&style=flat" alt="sumitroy-gh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitroy-gh" alt="sumitroy-gh" /></a> </p>
+
 
 - 🌱 I’m currently learning **how to build scalable ML systems**
 
