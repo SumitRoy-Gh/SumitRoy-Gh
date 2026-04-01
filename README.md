@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitroy-gh&label=Profile%20views&color=0e75b6&style=flat" alt="sumitroy-gh" /> </p>
 
 
-
 - 🌱 I’m currently learning **how to build scalable ML systems**
 
 - 💬 Ask me about **turning data into models with PyTorch and scikit-learn**
