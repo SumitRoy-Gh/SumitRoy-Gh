@@ -95,11 +95,3 @@
 
 Feel free to reach out if you want to collaborate on machine learning, deep learning, agentic AI, or interesting builder projects. I am always up for exchanging ideas, learning something new, and building something meaningful together.
 
-<p align="center">
-  <img src="./assets/lets-connect.gif" width="100%" alt="Abstract neon connect animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:36D1DC,50:5B86E5,100:FF6A88" alt="Footer banner" />
-</p>
-
