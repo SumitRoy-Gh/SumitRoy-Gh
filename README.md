@@ -96,20 +96,7 @@
 Feel free to reach out if you want to collaborate on machine learning, deep learning, agentic AI, or interesting builder projects. I am always up for exchanging ideas, learning something new, and building something meaningful together.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-roy-482378314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect badge" />
-  </a>
-  <a href="https://leetcode.com/u/Sumit_Roy_/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge" />
-  </a>
-  <a href="mailto:sumitrworkspace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email connect badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-%40ihaveadiscor__d__58975-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge" />
-</p>
-
-<p align="center">
-  <img src="./assets/lets-connect.gif" width="100%" alt="Pixel-art coding setup animation" />
+  <img src="./assets/lets-connect.gif" width="100%" alt="Abstract neon connect animation" />
 </p>
 
 <p align="center">
