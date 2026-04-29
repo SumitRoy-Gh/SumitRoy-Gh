@@ -21,12 +21,10 @@
   <a href="mailto:sumitrworkspace@gmail.com">
     <img src="https://img.shields.io/badge/Email-sumitrworkspace%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-%40ihaveadiscor__d__58975-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-%40ihaveadiscor__d__58975-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge" />
-</p>
-
 ## About Me
 
 - B.Tech student in Computer Science Engineering (Artificial Intelligence and Machine Learning)
@@ -44,9 +42,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib badge" />
   <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge" alt="Seaborn badge" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch badge" />
@@ -55,9 +50,6 @@
   <img src="https://img.shields.io/badge/NLP-1F6FEB?style=for-the-badge" alt="NLP badge" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
