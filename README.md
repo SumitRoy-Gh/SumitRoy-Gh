@@ -88,7 +88,8 @@
 Feel free to reach out if you want to collaborate on machine learning, deep learning, agentic AI, or interesting builder projects. I am always up for exchanging ideas, learning something new, and building something meaningful together.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520" alt="Coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding animation" />
 </p>
+
 
 
